@@ -3,4 +3,4 @@ Just another repo
 
 Hi Everyone.
 
-Getting started with githup and finishing the githup tutorial.
+Getting started with GitHub and finishing the GitHub tutorial.
